@@ -1,0 +1,2 @@
+# terraform-basic-custom-vpc-webApp
+Make a basic custom VPC with a single Private &amp; Public Subnet, loaded with Internet &amp; NAT Gateway using Terraform Script (infrastructure as code), Setup private and public routes and security group to allow ipV4 traffic on port 22 &amp; 80. Further Provision and launch the static website running on the private EC2 instance using Elastic Load Balancer DNS name.
